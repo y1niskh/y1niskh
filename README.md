@@ -7,15 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/y1niskh](https://github.com/y1niskh)
 
-- 📝 I regularly write articles on [/](/)
-
 - 💬 Ask me about **HTML, CSS, JS, REACT**
 
 - 📫 How to reach me **yaniskhellouf@gmail.com**
 
-- 📄 Know about my experiences [Je suis développeur web, avec des compétences en HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express et MongoDB. J’utilise également Git, GitHub et VS Code. Je m’intéresse au UI/UX, au design avec Figma, au déploiement de projets et aux outils d’IA comme Lovable. Je développe régulièrement des projets personnels afin d’améliorer mes compétences.](Je suis développeur web, avec des compétences en HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express et MongoDB. J’utilise également Git, GitHub et VS Code. Je m’intéresse au UI/UX, au design avec Figma, au déploiement de projets et aux outils d’IA comme Lovable. Je développe régulièrement des projets personnels afin d’améliorer mes compétences.)
+- 📄 Know about my experiences [I’m a web developer with skills in HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express, and MongoDB. I also use Git, GitHub, and VS Code. I’m interested in UI/UX design, Figma, project deployment, and AI tools like Lovable. I regularly build personal projects to improve my skills.]
 
-- ⚡ Fun fact **Je peux passer d’une idée de site à du code, puis vouloir refaire tout le design parce que « ça peut être encore mieux**
+- ⚡ Fun fact **I can go from having an idea for a website to coding it, then decide to redesign the whole thing because “it could still be better.”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
